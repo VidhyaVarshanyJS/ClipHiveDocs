@@ -19,5 +19,5 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://github.com/VidhyaVarshanyJS/ClipHive/blob/main/data/db.json
+          http_url: https://raw.githubusercontent.com/VidhyaVarshanyJS/ClipHive/main/data/db.json
           downloaded_filename: db.json
