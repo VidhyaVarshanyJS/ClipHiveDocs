@@ -16,3 +16,8 @@ jobs:
           deno-version: v1.10.x
       - name: Check out repo
         uses: actions/checkout@v2
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://github.com/VidhyaVarshanyJS/ClipHive/blob/main/data/db.json
+          downloaded_filename: db.json
