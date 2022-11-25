@@ -79,7 +79,7 @@ Building the allure chain of  quality resources for Developer, Designer and Crea
         <td>Screenshot</td>
         <td>Purple Photo \| Editor</td>
         <td>24\-11\-22 23:37</td>
-        <td>Ultimate tool to create &amp; edit photos\.</td>
+        <td>Ultimate tool to create & edit photos\.</td>
         <td>https://purple\-photo\.web\.app/editor</td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ Building the allure chain of  quality resources for Developer, Designer and Crea
         <td>Code Beautifier</td>
         <td>Purple Photo \| Code Editor</td>
         <td>24\-11\-22 23:32</td>
-        <td>Ultimate tool to create &amp; edit code snippets</td>
+        <td>Ultimate tool to create & edit code snippets</td>
         <td>https://purple\-photo\.web\.app/code\-editor</td>
     </tr>
     <tr>
@@ -284,7 +284,7 @@ Building the allure chain of  quality resources for Developer, Designer and Crea
         <td>Educational</td>
         <td>Front\-End</td>
         <td>Illustration</td>
-        <td>Creattie \- Premium Lottie Animations &amp; Animated Icons</td>
+        <td>Creattie \- Premium Lottie Animations & Animated Icons</td>
         <td>14\-11\-22 14:22</td>
         <td>Creattie is a curated library of Lottie animations and animated icons created by award\-winning artists\.</td>
         <td>https://creattie\.com</td>
@@ -302,7 +302,7 @@ Building the allure chain of  quality resources for Developer, Designer and Crea
         <td>Educational</td>
         <td>Front\-End</td>
         <td>Screenshot</td>
-        <td>MockRocket – Jaw\-dropping 3D app mockups &amp; animations</td>
+        <td>MockRocket – Jaw\-dropping 3D app mockups & animations</td>
         <td>14\-11\-22 14:04</td>
         <td>Create 3D app mockups and videos\. Right from your web browser\. No experience required\. Choose from the lastest 3D device modals\.</td>
         <td>https://mockrocket\.io/</td>
@@ -365,7 +365,7 @@ Building the allure chain of  quality resources for Developer, Designer and Crea
         <td>Educational</td>
         <td>Front\-End</td>
         <td>Screenshot</td>
-        <td>FabPic \| Capture &amp; Beautify Screenshots</td>
+        <td>FabPic \| Capture & Beautify Screenshots</td>
         <td>13\-11\-22 17:27</td>
         <td>FabPic is an easy to use, free and powerful graphics editor to beautify screenshots just in a few seconds\.</td>
         <td>https://www\.fabpic\.app</td>
@@ -484,7 +484,7 @@ Building the allure chain of  quality resources for Developer, Designer and Crea
         <td>Icon</td>
         <td>Lucide</td>
         <td>13\-11\-22 16:35</td>
-        <td>Beautiful &amp; consistent icon toolkit made by the community\.</td>
+        <td>Beautiful & consistent icon toolkit made by the community\.</td>
         <td>https://lucide\.dev</td>
     </tr>
     <tr>
@@ -502,7 +502,7 @@ Building the allure chain of  quality resources for Developer, Designer and Crea
         <td>Image Editing</td>
         <td>LunaPic \| Free Online Photo Editor</td>
         <td>13\-11\-22 16:31</td>
-        <td>Free Online Photo Editor\. Photo, sketch and paint effects\. For Tumblr, Facebook, Chromebook or Websites\. Lunatics Image software free image, art &amp; animated Gif creator\.</td>
+        <td>Free Online Photo Editor\. Photo, sketch and paint effects\. For Tumblr, Facebook, Chromebook or Websites\. Lunatics Image software free image, art & animated Gif creator\.</td>
         <td>https://www2\.lunapic\.com/editor/</td>
     </tr>
     <tr>
