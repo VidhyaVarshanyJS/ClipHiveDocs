@@ -1,7 +1,7 @@
 name: ClipHive
 description: Internet Allure Digital Garden💚
 url: "https://vidhyavarshanyjs.github.io"
-# markdown: GFM
+markdown: GFM
 higligther: rouge
 plugins:
   - jekyll-relative-links
