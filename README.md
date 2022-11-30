@@ -1,4 +1,4 @@
-[
+
 ## Latest Added
 
 | Category 📂           | Website Name 🔖                                      | Created Time ⌚ | Description 📝                                                                                                                                                                        | URL 🔗                              |
@@ -6,7 +6,7 @@
 | Illustration          | Royalty free Vector Illustrations                    | 26-11-22       | A new free, open-source and high-quality illustration each day - no attribution needed! Commercial, academic, or your pet project, doesn't matter. Use Scale to beautify your project | https://flexiple.com/illustrations/ |
 | Prototypes/Wireframes | Visily - AI-powered Wireframe Tool For Non-designers | 26-11-22       | Visily is the easiest and most powerful wireframe software that enables teams, regardless of size and skills, to create app wireframes                                                | https://www.visily.ai/              |
 | Animation             | Kinegram                                             | 26-11-22       | A tool to generate analog animations                                                                                                                                                  | https://kinegram.app/               |
-](url)
+
 
 
 ## Source
