@@ -6,7 +6,7 @@ higligther: rouge
 theme: minima
 plugins:
   - jekyll-relative-links
-Permalinks
+#Permalinks
 permalinks: pretty
 relative_links:
   enabled: true
