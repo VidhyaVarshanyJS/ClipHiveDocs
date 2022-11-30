@@ -4,13 +4,12 @@ url: "https://vidhyavarshanyjs.github.io"
 markdown: kramdown
 higligther: rouge
 theme: minima
-# plugins:
-#   - jekyll-relative-links
-# Permalinks
+plugins:
+  - jekyll-relative-links
+Permalinks
 permalinks: pretty
-relative_permalinks: true
-# relative_links:
-#   enabled: true
-#   collections: true
+relative_links:
+  enabled: true
+  collections: true
 include:
   - README.md
